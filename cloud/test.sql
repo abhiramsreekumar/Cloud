@@ -38,7 +38,7 @@ CREATE TABLE `tbl_members` (
 --
 
 INSERT INTO `tbl_members` (`id`, `username`, `password`, `email`) VALUES
-(1, 'abhirams314', 'stephenhawking', 'abhiram@gmasil.com');
+(1, 'abhirams', 'sasi', 'abhiram@gmasil.com');
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
